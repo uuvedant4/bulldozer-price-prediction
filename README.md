@@ -1,7 +1,9 @@
 # ***🚜Bulldozer Price Prediction Using Machine Learning***
 
 * In this notebook, I have gone through a machine learning project with the goal of predicting the sale price of bulldozers `(regresssion problem)`.
+
 * It is a Structured Data Project (Structured data is data you'd usually find in an Excel spreadsheet, pandas DataFrame or similar tabular style file.)
+
 * The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices.
   > For more on the evaluation of this project check: https://www.kaggle.com/c/bluebook-for-bulldozers/overview/evaluation
   > 
@@ -21,6 +23,9 @@
 ## ***The libraries used are:***
 
 * **Pandas** for data analysis.
+
 * **NumPy** for numerical operations.
+
 * **Matplotlib/seaborn** for plotting or data visualization.
+
 * **Scikit-Learn** for machine learning modelling and evaluation.
